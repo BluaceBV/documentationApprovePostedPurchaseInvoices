@@ -1,4 +1,4 @@
-# Manual Approve Posted Purchase Invoices
+﻿# Posted Invoice Approval
 
 In Business Central, the approval flow for purchase invoices is placed before posting by default. This is intended to be logical, but from an accounting perspective, it is a problem.
 
